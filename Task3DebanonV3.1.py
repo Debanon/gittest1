@@ -1,7 +1,7 @@
 #Step1:
 #Task 3: Test security of Web Server Configurations
 #Name: Debanon Datta
-#Version: 1.0
+#Version: 2.0
 
 import requests #making http request
 
